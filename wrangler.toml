@@ -1,2 +1,5 @@
 name = "mahmoodyaseenk-app"
-pages_build_output_dir = "dist"
+compatibility_date = "2024-02-08"
+
+[site]
+bucket = "./dist"
